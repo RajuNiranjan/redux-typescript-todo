@@ -49,7 +49,7 @@ const TodoCRUD = () => {
 
   return (
     <div className="flex justify-center items-center my-20 flex-col gap-4">
-      <h1>Todo App</h1>
+      <h1>Task Maneger</h1>
       <form onSubmit={handleSubmit} className="flex gap-4">
         <input
           type="text"
